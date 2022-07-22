@@ -63,7 +63,8 @@ Course :
 </label>   
   
 <select>  
-<option value="Course">Course</option>  
+<option value="Course">Course</option> 
+<option value="AWS">AWS</option> 
 <option value="BCA">BCA</option>  
 <option value="BBA">BBA</option>  
 <option value="B.Tech">B.Tech</option>  
@@ -84,7 +85,7 @@ Gender :
 <label>   
 Phone :  
 </label>  
-<input type="text" name="country code" placeholder="Country Code"  value="+91" size="2"/>   
+<input type="text" name="country code" placeholder="Country Code"  value="+1" size="2"/>   
 <input type="text" name="phone" placeholder="phone no." size="10"/ required>   
 Current Address :  
 <textarea cols="80" rows="5" placeholder="Current Address" value="address" required>  
