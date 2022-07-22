@@ -49,7 +49,7 @@ hr {
 <body>  
 <form>  
   <div class="container">  
-  <center>  <h1> Student Registeration Form</h1> </center>  
+  <center>  <h1> Training Registeration Form</h1> </center>  
   <hr>  
   <label> Firstname </label>   
 <input type="text" name="firstname" placeholder= "Firstname" size="15" required />   
@@ -65,12 +65,12 @@ Course :
 <select>  
 <option value="Course">Course</option> 
 <option value="AWS">AWS</option> 
-<option value="BCA">BCA</option>  
-<option value="BBA">BBA</option>  
-<option value="B.Tech">B.Tech</option>  
-<option value="MBA">MBA</option>  
-<option value="MCA">MCA</option>  
-<option value="M.Tech">M.Tech</option>  
+<option value="DEVOPS">DEVOPS</option>  
+<option value="Ansible">Ansible</option>  
+<option value="Docker">Docker</option>  
+<option value="IOT">IOT</option>  
+<option value="BlockChain">Blockchain</option>  
+<option value="AI-ML">AI/ML</option>  
 </select>  
 </div>  
 <div>  
